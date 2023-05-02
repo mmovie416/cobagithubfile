@@ -1,4 +1,4 @@
 Resolusi :
 - Bisa Front End
-- Bisa PHP
 - Bisa Laravel
+- Bisa Github
